@@ -18,16 +18,16 @@ To develop a system for recommending books based on a user request. The user ent
 ### How to run locally? 💻
 1. To create a Python virtual environment for running the code, enter:
 
-python3 -m venv my-env
+`python3 -m venv my-env`
 
 2. Activate the new environment:
 
 Windows:
-my-env\Scripts\activate.bat
+```my-env\Scripts\activate.bat```
 
 MacOS and Linux:
-source my-env/bin/activate
+```source my-env/bin/activate```
 
 3. Install all dependencies from the requirements.txt file:
 
-pip install -r requirements.txt
+```pip install -r requirements.txt```
